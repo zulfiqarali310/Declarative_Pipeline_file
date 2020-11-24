@@ -5,7 +5,7 @@ stages
 stage('Build-1') 
 {
 steps{
-echo "Build-1 Job Done Successfully"
+echo "Build-1 Job Done Successfully, New Change"
 }
 }
 stage('Deploy-1') 
